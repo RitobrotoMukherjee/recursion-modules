@@ -4,7 +4,7 @@
 
 > It's consists of **terminal based** 2 `Python` applications.
 
-> Task 1 - A python 3 program that excepts 1 integer user input and calculates it factorial. It gives user choice to choose between recursive or iterative approach.
+> Task 1 - A python 3 program that excepts 1 integer user input and calculates it factorial. Enhanced the task to practice `while` loop also, thus it gives user choice to choose between recursive or iterative approach.
 
 > Task 2 - Using math module calculate **Square root**, **Natural logarithm (log base e)**, and **Sine of the number (in radians)** from a user input.
 
